@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@azure-rest/ai-content-safety": "^1.0.0",
+    "@azure/core-auth": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
